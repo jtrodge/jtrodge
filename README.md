@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtrodge
 - 👀 I’m interested in Software Development, Technical Consulting 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn
 
